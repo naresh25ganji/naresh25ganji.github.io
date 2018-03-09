@@ -3,5 +3,4 @@ module.exports = {
     title: 'my Profile',
   },
   plugins: ['gatsby-plugin-react-helmet'],
-  pathPrefix: "/myProfile"
 };
